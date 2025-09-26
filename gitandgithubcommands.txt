@@ -14,8 +14,7 @@ git add 1_gitandgithubcommand.txt  or git add .
 git commit -m "Commit message" 
 git push
 
-Trying to do the github setup
 
-
-let me move this to main branch
+To create a new branch 
+git checkout -b "day1Branch"
 
