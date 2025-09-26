@@ -11,3 +11,8 @@ git remote add origin https://github.com/ayeshaf12/GitDemo.git
 git pull origin main 
 git status
 git add 1_gitandgithubcommand.txt  or git add .
+git commit -m "Commit message" 
+git push
+
+checking for changes 
+
