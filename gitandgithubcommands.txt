@@ -14,5 +14,6 @@ git add 1_gitandgithubcommand.txt  or git add .
 git commit -m "Commit message" 
 git push
 
-checking for changes 
+checking for change
+
 
