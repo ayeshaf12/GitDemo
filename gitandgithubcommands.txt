@@ -1,0 +1,13 @@
+1st time users for configuration of git-
+git config --global user.name "ayeshaf12"
+git config --global user.email "ayeshaf12@gmail.com"
+git config --global color.ui auto
+
+
+Mandatory steps-
+git init
+git remote add origin https://github.com/ayeshaf12/GitDemo.git
+
+git pull origin main 
+git status
+git add 1_gitandgithubcommand.txt  or git add .
